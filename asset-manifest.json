@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pll/static/css/main.823867df.css",
+    "main.js": "/pll/static/js/main.e6d2ea75.js",
+    "index.html": "/pll/index.html",
+    "main.823867df.css.map": "/pll/static/css/main.823867df.css.map",
+    "main.e6d2ea75.js.map": "/pll/static/js/main.e6d2ea75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.823867df.css",
+    "static/js/main.e6d2ea75.js"
+  ]
+}
